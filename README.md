@@ -18,7 +18,7 @@ This is a Java-based automated simulation of the classic card game War. The prog
 ### Project Structure
 
 
-Week06FinalCodingProjectWAR/
+Week06FinalCodingProjectWAR/\
 ├── src/finalCodingProject/ \
 │   ├── App.java    # Main program entry point\
 │   ├── Card.java   # Represents a playing card\
